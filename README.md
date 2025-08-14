@@ -28,7 +28,7 @@ The project was developed using **Unity** and involved:
 - **Unity**: Game engine used to develop the entire concert environment.
 - **C#**: Scripted custom animations and game logic for light and audio management.
 - **Audacity**: Audio editing tool used to combine concert and crowd sounds.
-- **Oculus Quest 2**: Hardware used for VR testing and deployment.
+- **Oculus Quest 2**: Hardware used for VR testing.
 
 ---
 
