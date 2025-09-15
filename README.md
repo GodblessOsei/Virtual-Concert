@@ -66,9 +66,6 @@ The project was developed using **Unity** and involved:
 - [Mixamo - 3D Characters & Animations](https://www.mixamo.com/#/)
 - [Audacity - Audio Editor](https://www.audacityteam.org/)
 =======
-# Build-A-Concert
-## Concerts for Everyone: When Music Meets Challenges
-
 
 ## Instructions/Run Through
 
