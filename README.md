@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎶 Build Your Concert 🎶
 
 ## Overview
@@ -64,3 +65,27 @@ The project was developed using **Unity** and involved:
 - [Stroboscopic Light Effects](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6585837/)
 - [Mixamo - 3D Characters & Animations](https://www.mixamo.com/#/)
 - [Audacity - Audio Editor](https://www.audacityteam.org/)
+=======
+# Build-A-Concert
+## Concerts for Everyone: When Music Meets Challenges
+
+
+## Instructions/Run Through
+
+When you first run the program, you are presented with a welcome text as well as two buttons, one to start the concert, which takes you to the concert scene, and one to exit, which quits the program.
+
+In the concert scene, you are presented with another menu. With the choice of playing music from four different genres: Afrobeat; Rock; Pop; R&B. As well as a toggle lights option in case you want to turn the lights on or off to cater to your needs. You also have the option of going back to the main menu to exit the program altogether. 
+If while in a concert scene, you decide you want to change genres, all you need is to click the button of the genre you want from the menu!
+
+## Problems & Challenges
+During the implementation process, we faced two major issues that posed a challenge to us in the smooth running and functionality of our simulation. The first of which was controlling the animation of the lights accurately. We had a functioning code that operating the animation of the spotlight that was based on the stage, however we faced a challenge assigning the right positions to the light as well as controlling the speed of the light, which made the light move around too quickly. We were able to fix this issue by combining the hand animation features of Unity along with our code to correct the speed and the positioning. We also observed during file transfers from one PC to the other, or from our drive to the Lab PC, we would lose some elements of our scene especially some of the animated lights, which we had to reimplement.
+Secondly, after we implemented the Main Menu and the Concert Menu with the buttons, we built the project onto the Oculus and observed that our buttons were not functioning. When the user tried to use the Poke interactive feature on the button, the hand icon would go straight through the button and would not interact with it. We reassessed our code as well as our implementation of the buttons and if we assigned the scripts accurately to the buttons, we also re implemented the VR Interaction using the Oculus website tutorial. However, the issue pertained and we were finally able to fix this by duplicating the template that was provided, and copy all the assets from our scene onto that template scene and reimplemented the buttons and the buttons started to function.
+
+
+
+
+
+
+
+
+>>>>>>> 71781b648aaf8bee90b7ce43840e41c35363c598
